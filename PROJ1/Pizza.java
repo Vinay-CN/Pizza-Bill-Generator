@@ -27,6 +27,7 @@ public class Pizza {
 
     }
     public int getPrice(){
+        System.out.print("Cart Value : ");
         return this.price;
     }
 
